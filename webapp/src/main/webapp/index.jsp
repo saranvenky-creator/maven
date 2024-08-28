@@ -12,7 +12,7 @@
     <input type="text" placeholder="Enter phone number" name="mobile" id="mobile" required>
     <br>
     
-    <label for="mobile"><b>Enter bye</b></label>
+    <label for="mobile"><b>Enter hi</b></label>
     <input type="text" placeholder="Enter Rahul moible number" name="mobile" id="mobile" required>
     <br>
 
