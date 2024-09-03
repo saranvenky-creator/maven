@@ -12,7 +12,7 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <input type="text" placeholder="Enter saran number" name="mobile" id="mobile" required>
     <br> 
 
     <label for="email"><b>Enter hi</b></label>
